@@ -16,7 +16,7 @@ var currentFrame;
 var blockSize = 1;
 
 //Word to display
-var word ="Cubes are cool!";
+var word ="CUBES";
 var sentence = sentenceFactory(word,blockSize*5,blockSize);
 
 
